@@ -4,6 +4,8 @@ First change is here
 
 add new lines
 
+another new lines
+
 Second change is here
 
 Welcome!
