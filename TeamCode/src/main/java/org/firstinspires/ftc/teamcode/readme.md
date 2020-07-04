@@ -2,7 +2,6 @@
 
 First change is here
 
-Second change is here
 
 Welcome!
 
